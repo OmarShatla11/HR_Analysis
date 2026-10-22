@@ -43,8 +43,8 @@ This interactive 2-page Power BI dashboard offers an end-to-end HR Analytics sol
 ---
 
 ## 📸 Dashboard Screenshots
+
 | Executive Overview | Satisfaction & Overtime |
 | :---: | :---: |
-| ![Page 1](Executive & Attrition Overview.png) | ![Page 2](Satisfaction & Overtime.png) |
-
+| ![Executive Overview](./Executive%20%26%20Attrition%20Overview.png) | ![Satisfaction & Overtime](./Satisfaction%20%26%20Overtime.png) |
 ---
